@@ -1,0 +1,4 @@
+repository "DragonSlayer@Mehmet_Kaan_elik@cloud"
+  path "/"
+    br "/main"
+    co "/main"
